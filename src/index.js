@@ -1,3 +1,5 @@
+import 'bootstrap-css-only/css/bootstrap.css';
+
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
